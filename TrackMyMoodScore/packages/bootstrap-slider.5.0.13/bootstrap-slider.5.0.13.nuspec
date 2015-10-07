@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>bootstrap-slider</id>
+    <version>5.0.13</version>
+    <title>bootstrap-slider</title>
+    <authors>seiyria,  ChrisMissal</authors>
+    <owners>seiyria,  ChrisMissal</owners>
+    <licenseUrl>https://github.com/seiyria/bootstrap-slider/blob/master/LICENSE.md</licenseUrl>
+    <projectUrl>https://github.com/seiyria/bootstrap-slider</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Bootstrap-slider is developed and maintained by Seiyria. This NuGet package is maintained by ChrisMissal.</description>
+    <summary>https://github.com/seiyria/bootstrap-slider</summary>
+    <tags>bootstrap bootstrap-slider slider</tags>
+  </metadata>
+</package>

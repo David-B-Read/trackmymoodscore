@@ -1,0 +1,11 @@
+﻿.mood-score-slider {
+    width: 100%;
+}
+
+.slider-container {
+    margin: 25px 0;
+}
+
+    .slider-container .slider.slider-horizontal {
+        width: 100%;
+    }

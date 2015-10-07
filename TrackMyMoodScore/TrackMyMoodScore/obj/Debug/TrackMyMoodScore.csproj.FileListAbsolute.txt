@@ -1,0 +1,5 @@
+C:\Dev\trackmymoodscore\TrackMyMoodScore\TrackMyMoodScore\bin\TrackMyMoodScore.dll
+C:\Dev\trackmymoodscore\TrackMyMoodScore\TrackMyMoodScore\bin\TrackMyMoodScore.pdb
+C:\Dev\trackmymoodscore\TrackMyMoodScore\TrackMyMoodScore\obj\Debug\TrackMyMoodScore.csprojResolveAssemblyReference.cache
+C:\Dev\trackmymoodscore\TrackMyMoodScore\TrackMyMoodScore\obj\Debug\TrackMyMoodScore.dll
+C:\Dev\trackmymoodscore\TrackMyMoodScore\TrackMyMoodScore\obj\Debug\TrackMyMoodScore.pdb
