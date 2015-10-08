@@ -6,6 +6,26 @@
     margin: 25px 0;
 }
 
-    .slider-container .slider.slider-horizontal {
-        width: 100%;
-    }
+.slider-container .slider.slider-horizontal {
+    width: 100%;
+}
+
+h1, h2, .slider-value, .button-container {
+    text-align: center;
+}
+
+h1, h2 {
+    margin-bottom: 25px;
+}
+
+.slider-value {
+    font-size: 4rem;
+}
+
+.button-container {
+    margin: 25px 0;
+}
+
+.save-my-score {
+    font-size: 3rem;
+}
