@@ -21,24 +21,23 @@
 
       <div class="page-header">
         <h1>Track My Mood Score</h1>
-        <p class="lead">
-            Inspired by Bipolar Awareness Day (<a href="https://twitter.com/hashtag/bipolarandme">#BipolarAndMe</a>) I decided to create a simple web site to help people affected by bipolar disorder (also known as manic depression) keep tabs on their moods and hopefully cope with their condition a little better.
-        </p>
-        <p class="lead">
-            I wish to make it clear from the outset that this web site does not transmit any mood scores or any private details to remote servers. All information is stored locally in a cookie on your computer, phone or tablet for the sake of your privacy.
-        </p>
       </div>
       <div class="row mood-rating">
           <div class="col-md-12">
-              <h2>How do you feel today?</h2>
+              <h2>How do you feel today?
+              <!--<span class="glyphicon glyphicon-info-sign"></span>-->
+              </h2>
               <p class="lead">
-                  Please record how you feel on a scale of 0 to 10. The scale suggested by <a href="http://www.bipolaruk.org.uk/assets/uploads/documents/information_leaflets/bipolar_uk_could_mood_swings_mean_bipolar.pdf">Bipolar UK</a> is
+                  The scale suggested by <a href="http://www.bipolaruk.org/" target="_blank">Bipolar UK</a> is
               </p>
              <ul>
                  <li><strong>0 to 3</strong> represents scales of serious depression</li>
                  <li><strong>4 to 6</strong> is a stable mood</li>
                  <li><strong>7 to 10</strong> is high or manic episodes</li>
              </ul>
+              <p class="lead">
+                  but use whatever works for you. We only save your scores to a cookie on your device for the purposes of showing historical information. Your privacy is protected at all times.
+              </p>
          </div>
      </div>
       <div class="row">
@@ -56,12 +55,19 @@
               <button type="button" class="btn btn-primary save-my-score">Save my score</button>
           </div>
       </div>
+      <div class="row">
+          <div class="col-md-12 graph-container"></div>
+      </div>
      </div>
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
     <script src="/Scripts/jquery.cookie.js"></script>
     <script src="/Scripts/bootstrap.min.js"></script>
     <script src="/Scripts/bootstrap-slider.min.js"></script>
+
+    <script src="/Scripts/highcharts.js"></script>
     <script src="/Scripts/track-score.js"></script>
-  </body>
+
+    </body>
+    <!-- For RM x -->
 </html>
