@@ -6,9 +6,13 @@
     margin: 25px 0;
 }
 
+.explain-mood-rating {
+    font-size: 14px;
+}
+
 .mood-rating ul li {
     list-style: none;
-    font-size: 1.7rem;
+    font-size: 1.5rem;
     font-weight: normal;
 }
 
