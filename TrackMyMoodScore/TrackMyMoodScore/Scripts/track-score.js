@@ -79,6 +79,7 @@ function displayHistoricalScoresGraph() {
         crosshair: false
     },
         yAxis: {
+        allowDecimals: false,
         min: 0,
         max: 10,
         title: {
